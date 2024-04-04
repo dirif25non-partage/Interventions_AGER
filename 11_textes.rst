@@ -11,9 +11,20 @@ Cette note définie la procédure de **note d'information préalable (NIP)**. En
 
 Les acteurs identifiés sont le **demandeur** et le **mainteneur**, ce dernier terme désigne l'exploitant des installations concernées.
 
-En 2010, *en complément et rappel* ,:download:`une nouvelle note<_static/pdf/100319_Procedure NIP.pdf>`  
-a été diffusées par les responsables de PCTT et le responsable du service exploitation et technologies.
+En 2010, *en complément et rappel*, une nouvelle note a été diffusées par les responsables de PCTT
+et le responsable du service exploitation et technologies. Cette note est intitulée : 
 
+:download:`Procédures pour les travaux sur des installations en exploitation<_static/pdf/100319_Procedure NIP.pdf>`  
+
+La note de 2010 reprend les mêmes sujet plus en détail. 
+
+Ces deux notes sont présentes sur le réseau du DETT : ``R:\STT\DETT\Commun\Traitement_nip\Procédure``.
+
+Un modèle de NIP est également disponible (2 versions, laquelle est la bonne ?)
+
+Des annexes, pour chaque PCTT et UIRC sont également présentes mais la manière de les utiliser n'est pas identifiée.
+
+Ces notes ne prennent pas en compte les évolutions d'orgnaisation de la DIRIF et du DETT. En particulier, une partie des mission d'UIRC ont été transférées à UPMM avec le changement d'unité de Jonathan Cerson.
 
 
 
