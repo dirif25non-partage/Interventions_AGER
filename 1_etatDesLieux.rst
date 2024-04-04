@@ -6,8 +6,7 @@ Etat des Lieux
    :maxdepth: 3
 
   11_textes
-
-   13_NIP
+  13_NIP
 
 Pour faire l'état des lieux on a regardé les textes qui définissent la note d'information préalable. 
 On a interrogé les cadres du DETT sur leur connaissance des procédures formalisée.
