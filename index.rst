@@ -7,6 +7,7 @@ Travaux sur des installations en exploitation
 
    1_etatDesLieux
    2_constat
+   3_perimetre
    5_pistes
 
 Lors du COMETT du 2 avril 2024, un atelier a été chargé d'aborder le sujet de l'information des unités sur les interventions sur les réseaux d'énergie et de données.
