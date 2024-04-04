@@ -1,5 +1,5 @@
-Interventions sur le réseau DETT
-********************************
+Travaux sur des installations en exploitation
+*************************************************
 
 .. toctree::
    :hidden:
