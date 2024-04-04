@@ -20,7 +20,7 @@ Quel le support de la procédure soit des fichiers echangés par mail ou une app
     3. Le mainteneur vérifie qu'il est concernés et que les autres mainteneurs concernés sont sollicités, il informe de demandeur et les autres mainteneurs de sa position.
     4. le mainteneur vérifie que la demande comporte les informations nécessaires à son instruction.     Il informe le demandeur si ce n'est pas le cas.
     5. le mainteneur valide la demande ou indique les modifications du moment et des modalités des travaux qui sont nécessaires ou souhaitables.
-    5b. les observateurs font des observations.
+    6. les observateurs font des observations.
     6. le demandeur met à jour sa demande selon les exigences du mainteneur et justifie les recommadations qu'il ne peut pas satisfaires.
     7. le mainteneur valide ou refuse les travaux.
 
