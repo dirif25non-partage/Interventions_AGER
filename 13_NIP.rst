@@ -38,8 +38,10 @@ Sur le réseau, R:\STT\DETT\Commun\Traitement_nip\, on trouve l'arborescence de 
      * 2023 (249 fichiers)
      * 2024 (24 fichiers)
 
-Il y a beaucoup de documents pour les PCTT SUD, OUEST et pour IRC
+Il y a beaucoup de documents pour les PCTT SUD, OUEST et pour IRC.
+
 A l'Est, l'historique, jusqu'à 2023 est très fourni, mais les NIP de 2024 sont absentes.
+
 Le Nord n'utilise pas le répertoire.
 
 Les disparités entre les PCTT suggèrent qu'il n'y a pas de procédure qui s'applique à tous.
