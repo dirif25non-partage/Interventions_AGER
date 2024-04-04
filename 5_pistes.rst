@@ -1,5 +1,14 @@
 Pistes d'amélioration
 ************************
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+
+  52_interactions
+
+
+
 Référentiel des réseaux
 ========================
 Les documents et les messages sur les installations utilisent des termes pour désigner les objets 
