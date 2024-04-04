@@ -24,7 +24,16 @@ Un modèle de NIP est également disponible (2 versions, laquelle est la bonne ?
 
 Des annexes, pour chaque PCTT et UIRC sont également présentes mais la manière de les utiliser n'est pas identifiée.
 
-Ces notes ne prennent pas en compte les évolutions d'orgnaisation de la DIRIF et du DETT. En particulier, une partie des mission d'UIRC ont été transférées à UPMM avec le changement d'unité de Jonathan Cerson.
+Ces notes ne prennent pas en compte les évolutions d'organisation de la DIRIF et du DETT. En particulier, une partie des missions d'UIRC ont été transférées à UPMM avec le changement d'unité de Jonathan Cerson.
+
+Sur un sujet connexe, on peut signaler la note désignant les chargés d'exploitation électrique:
+
+:download:`Décision de nomination des chargés d'exploitation électrique<_static/pdf/Décision DiRIF CEEP 2019.pdf>`
+
+Il semble que cette décision n'est plus à jour avec le départ de deuxadjoints de maintenance.
+
+
+
 
 
 
