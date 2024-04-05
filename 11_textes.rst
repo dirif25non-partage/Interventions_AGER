@@ -11,20 +11,28 @@ Cette note définie la procédure de **note d'information préalable (NIP)**. En
 
 Les acteurs identifiés sont le **demandeur** et le **mainteneur**, ce dernier terme désigne l'exploitant des installations concernées.
 
-En 2010, *en complément et rappel*, une nouvelle note a été diffusées par les responsables de PCTT
-et le responsable du service exploitation et technologies. Cette note est intitulée : 
+En 2010, *en complément et rappel*, une nouvelle note a été diffusées par *les responsables de PCTT
+et le responsable du service exploitation et technologies*. Cette note est intitulée : 
 
 :download:`Procédures pour les travaux sur des installations en exploitation<_static/pdf/100319_Procedure NIP.pdf>`  
 
-La note de 2010 reprend les mêmes sujet plus en détail. 
+La note de 2010 reprend les mêmes sujets, mais plus en détail pour en faciliter l'interprétation. 
 
 Ces deux notes sont présentes sur le réseau du DETT : ``R:\STT\DETT\Commun\Traitement_nip\Procédure``.
 
-Un modèle de NIP est également disponible (2 versions, laquelle est la bonne ?)
+Un :download:`modèle de NIP` daté de 2008 est également disponible. 
+
+Le modèle contient de nombreuses dénominations d'entités qui ont été remplacées. 
+Cela ne favorise pas l'efficacité et la crédibilité de la procédure et ne donne pas une bonne image de la DIRIF. 
+On trouve aussi sur le réseau un projet de mise à jour du modèle daté de 2012 mais qui a été abandonné.
 
 Des annexes, pour chaque PCTT et UIRC sont également présentes mais la manière de les utiliser n'est pas identifiée.
+Il semble qu'il s'agit de tableau de suivi qui résume les fiches sur 8 colonnes. 
+On trouve dans le répertoire réseau du PCTT Ouest un tableau de suivi construit diféremment.
 
-Ces notes ne prennent pas en compte les évolutions d'organisation de la DIRIF et du DETT. En particulier, une partie des missions d'UIRC ont été transférées à UPMM avec le changement d'unité de Jonathan Cerson.
+Ces notes ne prennent pas en compte les nombreuses évolutions d'organisation de la DIRIF depuis 20010. 
+En particulier on rapelle la dernière évolution, avec une partie des missions d'UIRC transférées à UPMM
+(changement d'unité de Jonathan Cerson qui emporte avec lui ses missions).
 
 Sur un sujet connexe, on peut signaler la note désignant les chargés d'exploitation électrique:
 
