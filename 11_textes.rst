@@ -20,7 +20,7 @@ La note de 2010 reprend les mêmes sujets, mais plus en détail pour en facilite
 
 Ces deux notes sont présentes sur le réseau du DETT : ``R:\STT\DETT\Commun\Traitement_nip\Procédure``.
 
-Un :download:`modèle de NIP` daté de 2008 est également disponible. 
+Un :download:`modèle de NIP<_static/cadre-nip.xls>` daté de 2008 est également disponible. 
 
 Le modèle contient de nombreuses dénominations d'entités qui ont été remplacées. 
 Cela ne favorise pas l'efficacité et la crédibilité de la procédure et ne donne pas une bonne image de la DIRIF. 
