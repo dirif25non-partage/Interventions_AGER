@@ -37,6 +37,12 @@ Pour recueillir les avis, j'ai envoyé le mail suivant :
             
             Merci de votre retour qui me permettra de faire un état des lieux.
 
+Au 5/4, j'ai reçu les réponses de Jonathan et Hassan qui m'ont permet de compléter le document.
+
+
+
+
+
 
 
 
