@@ -5,8 +5,7 @@ Pistes d'amélioration
    :hidden:
    :maxdepth: 3
 
-    52_interactions
-
+   52_interactions
 
 Sécurisation des sites
 ========================
