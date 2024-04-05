@@ -9,12 +9,13 @@ Pistes d'amélioration
 
 Sécurisation des sites
 ========================
-Pour améliorer le contrôle des travaux par les mainteneurs, il faudrait que plus de site soient fermés avec des  clés 
-programmables et munis de détecteurs d'intrusion.
+Pour améliorer le contrôle des travaux par les mainteneurs, il faudrait que plus de sites soient fermés avec des clés 
+programmables et qu'ils soient munis de détecteurs d'intrusion.
 
 Les mainteneurs pourraient ainsi interdire l'accès tant que l'autorisation n'a pas été accordée.
 
-Quand la fermeture n'est pas possible, la détection permettrait soit d'alerter le PCTT en temps réel soit d'enregistrer l'historique des accès.
+Quand la fermeture du site n'est pas possible, la détection permettrait soit d'alerter le PCTT en temps réel
+soit d'enregistrer l'historique des accès.
 
 
 Référentiel des réseaux
