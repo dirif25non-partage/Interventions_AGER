@@ -1,6 +1,7 @@
 Consultation des acteurs
 ***************************
 Pour recueillir les avis, j'ai envoyé le mail suivant :
+
 .. code-block:: 
     
     ------- Message transféré --------
