@@ -22,23 +22,25 @@ Ces deux notes sont présentes sur le réseau du DETT : ``R:\STT\DETT\Commun\Tra
 
 Un :download:`modèle de NIP<_static/cadre-nip.xls>` daté de 2008 est également disponible. 
 
-Le modèle contient de nombreuses dénominations d'entités qui ont été remplacées. 
+Le modèle contient de nombreuses dénominations d'entités qui ont été remplacées, depuis 2008. 
 Cela ne favorise pas l'efficacité et la crédibilité de la procédure et ne donne pas une bonne image de la DIRIF. 
+
 On trouve aussi sur le réseau un projet de mise à jour du modèle daté de 2012 mais qui a été abandonné.
 
-Des annexes, pour chaque PCTT et UIRC sont également présentes mais la manière de les utiliser n'est pas identifiée.
-Il semble qu'il s'agit de tableau de suivi qui résume les fiches sur 8 colonnes. 
-On trouve dans le répertoire réseau du PCTT Ouest un tableau de suivi construit diféremment.
+Des annexes, pour chaque PCTT et pour UIRC sont également présentes mais la manière de les utiliser n'est pas identifiée.
+Il semble qu'il s'agit de tableaux de suivi qui résument les NIP sur 8 colonnes. 
+On trouve, par ailleurs, dans le répertoire réseau du PCTT Ouest un tableau de suivi construit diféremment et qui semble faire double emploi.
 
-Ces notes ne prennent pas en compte les nombreuses évolutions d'organisation de la DIRIF depuis 20010. 
+Les notes de service ne prennent pas en compte les nombreuses évolutions d'organisation de la DIRIF depuis 2010. 
+
 En particulier on rapelle la dernière évolution, avec une partie des missions d'UIRC transférées à UPMM
 (changement d'unité de Jonathan Cerson qui emporte avec lui ses missions).
 
-Sur un sujet connexe, on peut signaler la note désignant les chargés d'exploitation électrique:
+Sur un sujet connexe, on peut signaler la note de 2019 désignant les chargés d'exploitation électrique:
 
 :download:`Décision de nomination des chargés d'exploitation électrique<_static/pdf/Décision DiRIF CEEP 2019.pdf>`
 
-Il semble que cette décision n'est plus à jour avec le départ de deuxadjoints de maintenance.
+Cette décision n'est plus à jour avec le départ des deux adjoints de maintenance des PCTT Nord et Ouest.
 
 
 
