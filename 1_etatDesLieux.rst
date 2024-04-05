@@ -8,6 +8,7 @@ Etat des Lieux
    11_textes
    13_NIP
    15_exemples
+   17_avis
 
 Pour faire l'état des lieux on a regardé les textes qui définissent la note d'information préalable. 
 On a interrogé les cadres du DETT sur leur connaissance des procédures formalisée.
