@@ -8,7 +8,7 @@ aux maîtres d'oeuvre. La gestion des NIP par les unités PCTT, UIRC (et derniè
 Fichiers présents sur le réseau 
 =================================
 
-Sur le réseau, R:\STT\DETT\Commun\Traitement_nip\, on trouve l'arborescence de répertoires suivante :
+Sur le réseau, :code:`R:\STT\DETT\Commun\Traitement_nip\` , on trouve l'arborescence de répertoires suivante :
 
 * Autorisations Diffusées
   * EST(Vide)
