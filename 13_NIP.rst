@@ -7,16 +7,16 @@ aux maîtres d'oeuvre. La gestion des NIP par les unités PCTT, UIRC (et derniè
 
 Fichiers présents sur le réseau 
 =================================
-
 Sur le réseau, ``R:\STT\DETT\Commun\Traitement_nip\`` , on trouve l'arborescence de répertoires suivante :
 
-* Autorisations Diffusées
+* Autorisations Diffusées :
   * EST(Vide)
   * IRC (7 fichiers)
   * NORD (Vide)
   * OUEST (7 fichiers)
   * SUD (11 fichiers)
-* NIP traitées
+
+* NIP traitées :
   * EST
      * 2000
      * ...
@@ -42,7 +42,7 @@ Il y a beaucoup de documents pour les PCTT SUD, OUEST et pour IRC.
 
 A l'Est, l'historique, jusqu'à 2023 est très fourni, mais les NIP de 2024 sont absentes.
 
-Le Nord n'utilise pas le répertoire.
+Le Nord n'utilisait pas le répertoire jusqu'à aujourd'hui.
 
 Les disparités entre les PCTT suggèrent qu'il n'y a pas de procédure qui s'applique à tous.
 
