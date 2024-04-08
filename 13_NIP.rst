@@ -46,8 +46,8 @@ Le Nord n'utilisait pas le répertoire jusqu'à aujourd'hui.
 
 Les disparités entre les PCTT suggèrent qu'il n'y a pas de procédure qui s'applique à tous.
 
-Autorisations Diffusées
-"""""""""""""""""""""""""""
+Répetoire Autorisations Diffusées
+"""""""""""""""""""""""""""""""""""
 3 unités utilisent le répertoire ``Autorisations Diffusées``. Elles semblent appliquer la même procédure :
 Pour chaque semaine qui comporte au moins une NIP, un tableau de synthèse de 8 colonnes est présent au format PDF.
 
@@ -67,24 +67,25 @@ Pour les PCTT Ouest & Sud, les NIP sont numérotées par leur *Référence*
 
 Pour UIRC, la référence contient un résumé de la nature des travaux.
 
-NIP traitées
-"""""""""""""""
+Répetoire NIP traitées
+""""""""""""""""""""""""
 Dans ce répertoire sont placées les fiches détaillées des NIP.
 
-Le modèle utilisé date de 2008. Les fiches comporte les nom des structures de 2008 (MINISTÈRE DE L’ÉCOLOGIE, DE L’ÉNERGIE, DU DÉVELOPPEMENT DURABLE ET DE L’AMÉNAGEMENT DU TERRITOIRE, Direction Interdépartementale	des Routes Île-de-France, Direction de	L’Exploitation	,	DC / Mission Tunnels et Equipements, DI / Pôle de compétences Equipements et Tunnels,
+Le modèle utilisé date de 2008. Les fiches comportent les noms des structures de 2008 (MINISTÈRE DE L’ÉCOLOGIE, DE L’ÉNERGIE, DU DÉVELOPPEMENT DURABLE ET DE L’AMÉNAGEMENT DU TERRITOIRE, Direction Interdépartementale	des Routes Île-de-France, Direction de	L’Exploitation	,	DC / Mission Tunnels et Equipements, DI / Pôle de compétences Equipements et Tunnels,
 DEX / Unité Exploitation et Maintenance Centralisée ...)
 
-Pour le PCTT Sud, il y a les 24 fiches correspondantes au données du répertoire ``Autorisations Diffusées``.
-Pour le PCTT Ouest, il y a 22 fichiers de natures diférentes :
+Pour le PCTT Sud, il y a les 24 fiches correspondant aux données du répertoire ``Autorisations Diffusées``.
+Pour le PCTT Ouest, il y a 22 fiches de natures diférentes :
 
 * 15 fiches NIP classiques numérotées
 * 5 fiches émise par AXIANS sur un format légèrement différent et hors numérotation
-* un tableau qui reprend les premières fiches numérotées (Ce tableau est en partie redondant avec celui du répertoire ``Autorisations Diffusées``) 
-
-N° NIP	Date Validation	INTITULE de L'INTERVENTION	Date de l'Intervention	Suivi par	Risques encourus sur l'exploitation
-
-
-
+* un tableau qui reprend les premières fiches numérotées (Ce tableau est en partie redondant avec celui du répertoire ``Autorisations Diffusées``). Champs du tableau:
+  * N° NIP	
+  * Date Validation	
+  * INTITULE de L'INTERVENTION	
+  * Date de l'Intervention	
+  * Suivi par	
+  * Risques encourus sur l'exploitation
 
 Pour UIRC, il n'y a que 4 fiches en 2024, alors que plus de 10 sont référencées dans le répertoire ``Autorisations Diffusées``.
 
