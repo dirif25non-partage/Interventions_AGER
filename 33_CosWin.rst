@@ -1,6 +1,8 @@
 Les réseaux dans CosWin
 ***************************
+Dans CosWin, les équipements sont classés par **Famille** et par **Type**.
 
+Le tableau ci-dessous indique les nombres d'équipements présents dans la base pour les familles et types qui entre dans le périmètre.
 
 .. csv-table::
    :header: Famille, Type, Nbr <br>équipements  
