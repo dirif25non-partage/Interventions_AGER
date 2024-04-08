@@ -2,10 +2,10 @@ Les réseaux dans CosWin
 ***************************
 Dans CosWin, les équipements sont classés par **Famille** et par **Type**.
 
-Le tableau ci-dessous indique les nombres d'équipements présents dans la base pour les familles et types qui entre dans le périmètre.
+Le tableau ci-dessous indique les nombres d'équipements présents dans la base pour les familles et types qui entrent dans le périmètre.
 
 .. csv-table::
-   :header: Famille, Type, Nbr <br>équipements  
+   :header: Famille, Type, Nbr équipements  
    :widths: 40, 40,20
    :width: 80%
 
@@ -28,6 +28,8 @@ Le tableau ci-dessous indique les nombres d'équipements présents dans la base 
     ARMOIRE-ENERGIE,TDBT,141
     ARMOIRE-ENERGIE,DFP-E,69
     ARMOIRE-ENERGIE,ARMOIRE-COMPENSATION,29
+
+Pour la plus grande partie de ces équipements, ils sont associé à un Local, un secteur géographique,un Axe-Sens-PR et des coordonnées GPS.
 
 
 
