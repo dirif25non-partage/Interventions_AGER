@@ -29,7 +29,11 @@ Le tableau ci-dessous indique les nombres d'équipements présents dans la base 
     ARMOIRE-ENERGIE,DFP-E,69
     ARMOIRE-ENERGIE,ARMOIRE-COMPENSATION,29
 
-Pour la plus grande partie de ces équipements, ils sont associé à un Local, un secteur géographique,un Axe-Sens-PR et des coordonnées GPS.
+Pour la plus grande partie de ces équipements, ils sont associés à 
+   * un Local, 
+   * un secteur géographique,
+   * un Axe-Sens-PR et 
+   * des coordonnées GPS.
 
 
 
