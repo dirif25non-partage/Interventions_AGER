@@ -1,4 +1,4 @@
-project = 'Travaux sur des installations en exploitation'
+project = "Interventions des équipes d'exploitation de la route"
 copyright = '2024-04, on'
 author = 'on'
 release = ''
