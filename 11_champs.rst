@@ -48,15 +48,16 @@ On a considéré qu'il fournissait la date de l'intervention.
 
 Heure d'appel 
 =================
-On peut s'interoger sur l'appel dont il s'agit. 
+On peut s'interoger sur la nature de l'appel dont il s'agit. 
 
 Comme l'OST est identifié comme l'origine de l'appel dans 78% des interventions (voir ci-dessous), il s'agit souvent de l'appel de l'OST au RI, car l'OST a la consigne d'appeler le RI en priorité.
 
-Toutefois comme dans 10% des interventions, l'origine de l'appel est identifiée comme RI, force est de constater que l'appel renseigné n'est pas évident à identifier.
+Toutefois comme dans 10% des interventions, l'origine de l'appel est identifiée comme **RI**, force est de constater que la nature de l'appel renseigné n'est pas évident à identifier.
 
 Origine de l'appel
 ====================
-Le tableau ci-dessous indique le nombre d'enregistrements par CEI et par mois
+Le tableau ci-dessous indique le nombre d'enregistrements par CEI et par mois.
+
 En réalité le champs **Origine de l'appel** prend plus de 600 valeurs. On a donc regroupé de nombreuses valeurs dans le champs **autre**.
 
 
@@ -85,20 +86,20 @@ En réalité le champs **Origine de l'appel** prend plus de 600 valeurs. On a do
 
 Dans certains CEI, aucun appel n'a pour origine la police alors qu'ailleurs, le taux peut atteindre 20%.
 
-Les appels des dépaneurs se concentrent sur 3 CEI ce qui parait improbable si tout les CEI code les données selon les mêmes règles.
+Les appels des dépaneurs se concentrent sur 3 CEI ce qui parait improbable si tout les CEIs codent les données selon les mêmes règles.
 
 Il y a donc des marges de progrès sur la compréhension de ce champ par les agents qui saisissent les données.
 
 Axe 
 =======
-Le champ Axe ne prend que 57 valeurs. Elles sont ci-dessous classée par ordre décroissant d'occurences.  
+Le champ Axe ne prend que 57 valeurs. Elles sont ci-dessous classées par ordre décroissant d'occurences. L'absence de valeurs mal saisie signifie qu'il existe un contrôle sur la saisie de ce champs.  
 
 'A86', 'N104', 'A13', 'A4', 'N12', 'A6', 'A15', 'N118', 'A6b', 'A12',
-       'A10', 'A104', 'A6a', 'A3', 'N184', 'A14', 'A1', 'N10', 'N385', 'N2',
-       'A115', 'N3', 'N4', 'N13', 'N14', 'N406', 'N315', 'A126', 'N19', 'N186',
-       'A140', 'N7', 'N6', 'A106', 'N449', 'A103', 'N330', 'N1104', 'N441',
-       'N440', 'N36', 'N486', 'A16', 'N306', 'N20', 'N191', 'N1013', 'N188',
-       'N192', 'N37', 'N105', 'N1', 'N446', 'N337', 'RD310', 'RD31', 'N1014'
+'A10', 'A104', 'A6a', 'A3', 'N184', 'A14', 'A1', 'N10', 'N385', 'N2',
+'A115', 'N3', 'N4', 'N13', 'N14', 'N406', 'N315', 'A126', 'N19', 'N186',
+'A140', 'N7', 'N6', 'A106', 'N449', 'A103', 'N330', 'N1104', 'N441',
+'N440', 'N36', 'N486', 'A16', 'N306', 'N20', 'N191', 'N1013', 'N188',
+'N192', 'N37', 'N105', 'N1', 'N446', 'N337', 'RD310', 'RD31', 'N1014'
 
 Le codage n'est pas le même que dans SIRIUS qui distingue un plus grand nombre d'axes. La liaison entre les deux tables demandera donc un transformation de ce champ, d'un coté, de l'autre ou des deux cotés.
 
@@ -107,15 +108,15 @@ Sens
 Le champ Sens prend 22 valeurs :
 
 'Y', 'W', 'INT', 'EXT', 'W,Y', 'INT,EXT', 'Y,W', 'EXT,INT', 'W,EXT',
-       'INT,W', 'W,Y,INT,EXT', 'Y,EXT', 'W,INT', 'INT,Y', 'EXT,W', 'Y,INT',
-       'EXT,Y', 'Y,W,INT,EXT', 'INT,EXT,W,Y', 'Y,INT,W', 'EXT,INT,Y,W',
-       'W,INT,EXT,Y'
+'INT,W', 'W,Y,INT,EXT', 'Y,EXT', 'W,INT', 'INT,Y', 'EXT,W', 'Y,INT',
+'EXT,Y', 'Y,W,INT,EXT', 'INT,EXT,W,Y', 'Y,INT,W', 'EXT,INT,Y,W',
+'W,INT,EXT,Y'
 
-Les 4 premières valeurs qui sont des *Sens simpes* représentent 95% des interventions.
+Les 4 premières valeurs qui sont des **Sens simples** représentent 95% des interventions.
 
-Dans SIRIUS, le codage des *Sens multiples* est très diférent. Il y a au maximum 2 sens dans la table des événements SIRIUS.
+Dans SIRIUS, le codage des **Sens multiples** est très diférent. Il y a au maximum 2 sens dans la table des événements SIRIUS.
 
-On considère que le travail sur ces cas minoritaire n'est pas prioritaire.
+On considère que le travail sur ces cas minoritaires n'est pas prioritaire.
 
 Localisation 
 ===============
@@ -134,12 +135,25 @@ On a considéré que les notations suivantes sont équivalentes :
 * TUNNEL DE NNN 3.500
 ...
 
+Un petit nombre de valeurs du champs comme "Croix de Noailles", "TUNNEL DES SEVINES"
+ou "Sortie Aubervilliers"  ne peuvent pas être converties simplement en valeur du PR.
+
+Les traitements réalisés ont permis de déterminer une valeur du PR pour 97% des interentions mais cela comporte quelques erreurs. 
 
 
-Voies                                           2
-Heure de début                                  2
-Heure de fin                                    2
-Type d'intervention                             2
+
+Voies 
+Heure de début  / Heure de fin
+===================================
+Ces champs ne sont pas toujours renseignés et n'on pas été exploités à ce stade.
+
+Type d'intervention 
+=====================
+
+
+
+
+
 Précision niveau 1                              2
 Précision niveau 2                              2
 Observations                                    2
