@@ -28,21 +28,61 @@ Le tableau ci-dessous indique le nombre d'enregistrements par CEI et par mois
     Ouest,Rocquencourt-Boulogne,0,0,0,0,74,397,360,405,410,252,320
     Sud,Ablis,46,30,47,62,49,61,28,42,50,39,33
     Sud,Chevilly-Larue,365,366,335,344,363,312,336,325,345,385,351
-    Sud,Jouy-en-Josas,379,325,366,430,292,0,0,0,64,87,46
-    Sud,Jouy-en-Josas (site de Jouy),0,0,0,19,148,282,245,297,302,132,249
-    Sud,Jouy-en-Josas (site de Plaisir),0,0,0,0,0,108,106,55,28,191,204
+    Sud,Jouy-en-J.,379,325,366,430,292,0,0,0,64,87,46
+    Sud,Jouy-en-J. (Jouy),0,0,0,19,148,282,245,297,302,132,249
+    Sud,Jouy-en-J. (Plaisir),0,0,0,0,0,108,106,55,28,191,204
     Sud,Orsay,289,296,290,268,254,273,214,207,253,245,235
     Sud,Villabé,352,315,341,328,323,310,277,290,294,279,287
 
+On constate que des données sont manquantes pour certains mois/CEI.
+
+En ce qui concerne le CEI de Jouy-en-Josas, les deux sites ont été distingués en 2024.
+
+
+Auteur 
+
+Date d'appel
+=============
+Ce champ comme le champ suivant est renseigné pour toutes les lignes de la table. 
+On a considéré qu'il fournissait la date de l'intervention.
+
+Heure d'appel 
+=================
+On peut s'interoger sur l'appel dont il s'agit. 
+
+Comme l'OST est identifié comme l'origine de l'appel dans 78% des interventions (voir ci-dessous), il s'agit souvent de l'appel de l'OST au RI, car l'OST a la consigne d'appeler le RI en priorité.
+
+Toutefois comme dans 10% des interventions, l'origine de l'appel est identifiée comme RI, force est de constater que l'appel renseigné n'est pas évident à identifier.
+
+Origine de l'appel
+====================
+Le tableau ci-dessous indique le nombre d'enregistrements par CEI et par mois
+
+.. csv-table::
+   :header: Pc,CEI,OST,Police,RI,Dépanneurs,Gendarmerie,Autre
+   :width: 100%
+
+      Est,Brie-Comte-Robert,1184,4,120,2,1,88
+      Est,Champigny,3260,2,590,51,0,499
+      Est,Rosny,1074,1,87,2,0,30
+      Est,Rozay en Brie,104,0,4,0,0,1
+      Est,Villeparisis,1126,5,185,1,2,342
+      Nord,Eragny,1785,292,218,151,52,171
+      Nord,Saint-Denis,794,19,125,15,0,18
+      Ouest,Fontenay,455,13,178,278,33,288
+      Ouest,Nanterre,3042,17,419,2,0,194
+      Ouest,Orgeval,461,0,0,0,1,6
+      Ouest,Rocquencourt-Boulogne,2103,19,47,0,0,49
+      Sud,Ablis,407,0,28,1,2,49
+      Sud,Chevilly-Larue,3003,2,471,17,0,334
+      Sud,Jouy-en-Josas,1786,0,58,2,0,143
+      Sud,Jouy-en-Josas (site de Jouy),1502,0,53,1,1,117
+      Sud,Jouy-en-Josas (site de Plaisir),616,0,29,0,1,46
+      Sud,Orsay,1680,245,382,18,0,499
+      Sud,Villabé,2821,7,414,9,14,131
 
 
 
-
-
-Auteur                                          2
-Date d'appel                                    2
-Heure d'appel                                   2
-Origine de l'appel                              2
 Axe                                             2
 Sens                                            2
 Localisation                                    2
