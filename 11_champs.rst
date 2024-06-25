@@ -57,6 +57,8 @@ Toutefois comme dans 10% des interventions, l'origine de l'appel est identifiée
 Origine de l'appel
 ====================
 Le tableau ci-dessous indique le nombre d'enregistrements par CEI et par mois
+En réalité le champs **Origine de l'appel** prend plus de 600 valeurs. On a donc regroupé de nombreuses valeurs dans le champs **autre**.
+
 
 .. csv-table::
    :header: Pc,CEI,OST,Police,RI,Dépanneurs,Gendarmerie,Autre
@@ -81,11 +83,59 @@ Le tableau ci-dessous indique le nombre d'enregistrements par CEI et par mois
       Sud,Orsay,1680,245,382,18,0,499
       Sud,Villabé,2821,7,414,9,14,131
 
+Dans certains CEI, aucun appel n'a pour origine la police alors qu'ailleurs, le taux peut atteindre 20%.
+
+Les appels des dépaneurs se concentrent sur 3 CEI ce qui parait improbable si tout les CEI code les données selon les mêmes règles.
+
+Il y a donc des marges de progrès sur la compréhension de ce champ par les agents qui saisissent les données.
+
+Axe 
+=======
+Le champ Axe ne prend que 57 valeurs. Elles sont ci-dessous classée par ordre décroissant d'occurences.  
+
+'A86', 'N104', 'A13', 'A4', 'N12', 'A6', 'A15', 'N118', 'A6b', 'A12',
+       'A10', 'A104', 'A6a', 'A3', 'N184', 'A14', 'A1', 'N10', 'N385', 'N2',
+       'A115', 'N3', 'N4', 'N13', 'N14', 'N406', 'N315', 'A126', 'N19', 'N186',
+       'A140', 'N7', 'N6', 'A106', 'N449', 'A103', 'N330', 'N1104', 'N441',
+       'N440', 'N36', 'N486', 'A16', 'N306', 'N20', 'N191', 'N1013', 'N188',
+       'N192', 'N37', 'N105', 'N1', 'N446', 'N337', 'RD310', 'RD31', 'N1014'
+
+Le codage n'est pas le même que dans SIRIUS qui distingue un plus grand nombre d'axes. La liaison entre les deux tables demandera donc un transformation de ce champ, d'un coté, de l'autre ou des deux cotés.
+
+Sens
+===========
+Le champ Sens prend 22 valeurs :
+
+'Y', 'W', 'INT', 'EXT', 'W,Y', 'INT,EXT', 'Y,W', 'EXT,INT', 'W,EXT',
+       'INT,W', 'W,Y,INT,EXT', 'Y,EXT', 'W,INT', 'INT,Y', 'EXT,W', 'Y,INT',
+       'EXT,Y', 'Y,W,INT,EXT', 'INT,EXT,W,Y', 'Y,INT,W', 'EXT,INT,Y,W',
+       'W,INT,EXT,Y'
+
+Les 4 premières valeurs qui sont des *Sens simpes* représentent 95% des interventions.
+
+Dans SIRIUS, le codage des *Sens multiples* est très diférent. Il y a au maximum 2 sens dans la table des événements SIRIUS.
+
+On considère que le travail sur ces cas minoritaire n'est pas prioritaire.
+
+Localisation 
+===============
+Dans de nombreux cas, la localisation nous renseigne sur le PR et l'Abscisse mais ce n'est malheureusement pas toujours le cas.
+
+On a considéré que les notations suivantes sont équivalentes :
+
+* 3+500
+* 3.500
+* 3,500
+* 3-500
+* 30500
+* PR 3+500
+* pr 3.500
+* Pr 3,500
+* TUNNEL DE NNN 3.500
+...
 
 
-Axe                                             2
-Sens                                            2
-Localisation                                    2
+
 Voies                                           2
 Heure de début                                  2
 Heure de fin                                    2
