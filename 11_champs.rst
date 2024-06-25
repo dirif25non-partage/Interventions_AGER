@@ -140,9 +140,8 @@ ou "Sortie Aubervilliers"  ne peuvent pas être converties simplement en valeur 
 
 Les traitements réalisés ont permis de déterminer une valeur du PR pour 97% des interentions mais cela comporte quelques erreurs. 
 
-
-
 Voies 
+
 Heure de début  / Heure de fin
 ===================================
 Ces champs ne sont pas toujours renseignés et n'on pas été exploités à ce stade.
@@ -154,24 +153,42 @@ Type d'intervention
 
 
 
-Précision niveau 1                              2
-Précision niveau 2                              2
-Observations                                    2
-Présence du RI                                  2
-DDP                                             2
-Commune                                         2
-Horaire d'arrivée sur le lieu d'intervention    2
-Horaire du départ du lieu d'intervention        2
-Moyens humains                                  2
-Moyens matériels                                2
-État de la chaussée                             2
-Conditions météo                                2
-Intervenants                                    2
-Circonstances                                   2
-Actions réalisées                               2
-Présence du tiers responsable                   2
-Véhicules impliqués                             2
-Agents                                          2
+
+Précision niveau 1             
+
+Précision niveau 2           
+Observations                
+
+Présence du RI                 
+
+DDP                      
+
+Commune            
+
+Horaire d'arrivée sur le lieu d'intervention 
+
+Horaire du départ du lieu d'intervention  
+
+Moyens humains        
+
+Moyens matériels                   
+
+État de la chaussée                    
+
+Conditions météo     
+
+Intervenants                  
+
+Circonstances        
+
+Actions réalisées        
+
+Présence du tiers responsable   
+
+Véhicules impliqués         
+
+Agents             
+
 
 
 
