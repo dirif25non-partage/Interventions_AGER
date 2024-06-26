@@ -102,6 +102,9 @@ Le champ Axe ne prend que 57 valeurs. Elles sont ci-dessous classées par ordre 
 
 Le codage n'est pas le même que dans SIRIUS qui distingue un plus grand nombre d'axes. La liaison entre les deux tables demandera donc un transformation de ce champ, d'un coté, de l'autre ou des deux cotés.
 
+La N385 apparait pour 450 interventions, principalement pour les PR de 52 à 58. Cependant sur cette même plage de PR, on a également des interventions sur l'axe A86. On remplacera N385 par A86 pour faire la liaison avec SIRIUS.
+
+
 Sens
 ===========
 Le champ Sens prend 22 valeurs :
