@@ -12,7 +12,7 @@ CEI
 Le tableau ci-dessous indique le nombre d'enregistrements par CEI et par mois
 
 .. csv-table::
-   :header: Pc,CEI,23-07,23-08,23-09,23-10,23-11,23-12,24-01,24-02,24-03,24-04,24-05
+   :header: AGER,CEI,23-07,23-08,23-09,23-10,23-11,23-12,24-01,24-02,24-03,24-04,24-05
    :width: 100%
 
     Est,Brie-Comte-Robert,142,94,120,136,154,128,119,131,124,111,140
@@ -60,9 +60,8 @@ Le tableau ci-dessous indique le nombre d'enregistrements par CEI et par mois.
 
 En réalité le champs **Origine de l'appel** prend plus de 600 valeurs. On a donc regroupé de nombreuses valeurs dans le champs **autre**.
 
-
 .. csv-table::
-   :header: Pc,CEI,OST,Police,RI,Dépanneurs,Gendarmerie,Autre
+   :header: AGER,CEI,OST,Police,RI,Dépanneurs,Gendarmerie,Autre
    :width: 100%
 
       Est,Brie-Comte-Robert,1184,4,120,2,1,88
@@ -144,13 +143,43 @@ Voies
 
 Heure de début  / Heure de fin
 ===================================
-Ces champs ne sont pas toujours renseignés et n'on pas été exploités à ce stade.
+Ces champs  sont renseignés pour seulement 63% et 60% des interventions et ils n'ont pas été exploités à ce stade.
 
 Type d'intervention 
 =====================
+Le champ Type prend 394 valeurs dont 350 ont moins de 2 occurences. Les 8 premières valeurs représentent 99% des interventions.
+Pour 3% des interventions, le type n'est pas renseigné, il a été fixé à la valeur "Autre".
 
+Il serait peut être pertinent de contrôler la saisie pour limiter ces valeurs à une liste prédéfinie.
 
+Les principaux types sont: 
 
+* Panne         19029
+* Accident       8472
+* Obstacle       3709
+
+.. csv-table::
+   :header: AGER,CEI,Panne,Accident,Obstacle,Animaux,Intempérie,Balisage,Chaussée,Autre
+   :width: 100%
+
+      Est,Brie-Comte-Robert,531,510,251,35,13,8,7,44
+      Est,Champigny,2281,1176,307,6,48,28,31,525
+      Est,Rosny,681,315,72,3,17,8,23,75
+      Est,Rozay en Brie,16,46,29,6,4,0,2,6
+      Est,Villeparisis,681,450,368,54,18,15,12,63
+      Nord,Eragny,1105,776,434,58,29,44,55,168
+      Nord,Saint-Denis,511,262,82,3,21,16,9,67
+      Ouest,Fontenay,699,205,141,16,10,34,14,126
+      Ouest,Nanterre,2028,874,286,13,63,55,22,333
+      Ouest,Orgeval,351,47,35,2,0,0,0,33
+      Ouest,Rocquencourt-Boulogne,1564,323,173,24,9,17,3,105
+      Sud,Ablis,156,125,100,28,5,7,7,59
+      Sud,Chevilly-Larue,2401,961,225,5,45,13,20,157
+      Sud,Jouy-en-Josas,1287,320,254,30,17,3,4,74
+      Sud,Jouy-en-Josas (site de Jouy),1065,295,187,30,18,3,5,71
+      Sud,Jouy-en-Josas (site de Plaisir),361,94,76,30,5,1,0,125
+      Sud,Orsay,1635,619,334,49,49,9,12,117
+      Sud,Villabé,1676,1074,355,17,12,42,12,208
 
 
 
