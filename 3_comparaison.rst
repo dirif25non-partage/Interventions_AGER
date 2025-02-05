@@ -14,12 +14,12 @@ Localisation
 ===============
 Pour la localisation, on retrouve les notions d'axe, de sens et de PR dans les 2 tables mais :
 
-* les axes ne sont pas toujours désignés de la même mannière.
+* les axes ne sont pas toujours désignés de la même manière.
 * les notions de sens sont différentes (en particulier au niveau des accès et des échangeurs)
 * la codification des PR est très différente selon l'auteur des enregistrements d'interventions.
 
 On a créé des tables de correspondance qui permettent dans la majorités des cas de traduire les codifications dans un langage commun.  
-Les correspondances ne sont cependant pas complètes et augmenter le taux de correspondance signifie alonger la table. C'est un tavail assez laborieux et qui produit des rendements décroissants.
+Les correspondances ne sont cependant pas complètes et augmenter le taux de correspondance signifie allonger la table. C'est un travail assez laborieux et qui produit des rendements décroissants.
 
 Il en résulte qu'environ 10 à 20 % des enregistrements qui pourraient être liés par une analyse fine ne le sont pas dans les résultats produit ici.
 
@@ -31,16 +31,16 @@ Pour la date et l'heure, la liaison est plus simple même ne les heures saisies 
 
 Résultat des liaisons
 =======================
-En faisant une liaison intégrant le PR on trouve un événement SIRIUS pour 15 000 des 43 000 intervention.
-Sans prendre en compte le PR, le nombre d'appariement passe à 26 000.
+En faisant une liaison intégrant le PR, on trouve un événement SIRIUS pour 15 000 des 43 000 interventions.
+Sans prendre en compte le PR, le nombre d'appariements passe à 26 000.
 
 Enlever une dimension facilite les correspondances, mais cela entraine que l'on fait aussi apparaitre de fausses correspondances.
 
 Déclinaison par CEI
 ======================
-Le taux de liaisons peut dépendre de nombreux facteurs liés à des considérations géographiques et à la manière dont les données sont enregistrées dans la base.
+Les taux de liaisons peuvent dépendre de nombreux facteurs liés à des considérations géographiques et à la manière dont les données sont enregistrées dans la base.
 
-On peut observer la manière dont il dépend des variables de la base. On fait ci-dessous une analyse par CEI.
+On peut observer la manière dont ces taux dépendent des variables de la base. On fait ci-dessous, par exemple, une analyse par CEI.
 
 .. csv-table::
    :header: CEI,Nbr d'interventions,Taux avec PR,Taux sans PR
