@@ -46,24 +46,24 @@ On peut observer la manière dont ces taux dépendent des variables de la base. 
    :header: CEI,Nbr d'interventions,Taux avec PR,Taux sans PR
    :width: 100%
 
-  Brie-Comte-Robert,1429,41,68
-  Champigny,4987,49,75
-  Rosny,2747,37,68
-  Rozay en Brie,37,5,27
-  Villeparisis,2232,31,47
-  Eragny,2946,19,44
-  Saint-Denis,2929,33,63
-  Fontenay,1087,1,37
-  Nanterre,4308,39,74
-  Orgeval,559,43,76
-  Rocquencourt-Boulogne,3978,46,73
-  Ablis,515,20,35
-  Chevilly-Larue,4340,19,31
-  Jouy-en-Josas,414,26,49
-  Jouy-en-Josas (site de Jouy),2568,25,52
-  Jouy-en-Josas (site de Plaisir),1714,23,49
-  Orsay,2865,43,68
-  Villabé,3731,46,76
+     Brie-Comte-Robert,1429,41,68
+     Champigny,4987,49,75
+     Rosny,2747,37,68
+     Rozay en Brie,37,5,27
+     Villeparisis,2232,31,47
+     Eragny,2946,19,44
+     Saint-Denis,2929,33,63
+     Fontenay,1087,1,37
+     Nanterre,4308,39,74
+     Orgeval,559,43,76
+     Rocquencourt-Boulogne,3978,46,73
+     Ablis,515,20,35
+     Chevilly-Larue,4340,19,31
+     Jouy-en-Josas,414,26,49
+     Jouy-en-Josas (site de Jouy),2568,25,52
+     Jouy-en-Josas (site de Plaisir),1714,23,49
+     Orsay,2865,43,68
+     Villabé,3731,46,76
 
 
 
