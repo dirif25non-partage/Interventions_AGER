@@ -67,7 +67,12 @@ On peut observer la manière dont ces taux dépendent des variables de la base. 
 
 Déclinaison par heure du jour ou de la nuit
 ===================================================
-On ajoute une analyse par heure (de 0 à 23)
+On ajoute une analyse par heure (de 0 à 23).
+
+Le taux dépasse 65% en fin d'après midi. Il est en dessous de 50% au milieu de la nuit.
+La variation tient au moins en partie au plus grand nombre de faux positifs aux heures qui voient le plus grand nombre d'événements.
+
+On aurait pu s'attendre à ce que les appariements soient meilleurs quand l'activité est plus faible et qu'il est donc plus facile de la tracer. Ce n'est pas ce que l'on observe.
 
 .. csv-table::
    :header: Heure,Nbr d'interventions,Taux avec PR,Taux sans PR
