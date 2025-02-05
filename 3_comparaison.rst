@@ -65,7 +65,38 @@ On peut observer la manière dont ces taux dépendent des variables de la base. 
      Orsay,2865,43,68
      Villabé,3731,46,76
 
+Déclinaison par heure du jour ou de la nuit
+===================================================
+On ajoute une analyse par heure (de 0 à 23)
 
+.. csv-table::
+   :header: Heure,Nbr d'interventions,Taux avec PR,Taux sans PR
+   :width: 100%
+      
+      0,1256,25,44
+      1,1048,29,50
+      2,785,28,49
+      3,699,28,47
+      4,699,27,47
+      5,845,37,56
+      6,1392,35,61
+      7,1720,39,66
+      8,2102,37,64
+      9,2273,35,60
+      10,2134,33,60
+      11,2058,34,61
+      12,1985,36,65
+      13,2265,35,62
+      14,2351,36,64
+      15,2427,38,64
+      16,2546,37,66
+      17,2640,39,69
+      18,2544,39,67
+      19,2571,37,66
+      20,2125,33,61
+      21,1826,33,59
+      22,1696,28,53
+      23,1399,29,50
 
 
 
