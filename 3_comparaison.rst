@@ -46,7 +46,6 @@ On peut observer la manière dont il dépend des variables de la base. On fait c
    :header: CEI,Nbr d'interventions,Taux avec PR,Taux sans PR
    :width: 100%
 
-  CEI,tot,t1,t2
   Brie-Comte-Robert,1429,41,68
   Champigny,4987,49,75
   Rosny,2747,37,68
