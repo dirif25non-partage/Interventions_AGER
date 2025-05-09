@@ -15,7 +15,6 @@ Pour chaque intervention d'une équipe d'un CEI de la DiRIF, le RI fait une fich
 Les fiches sont saisiees dans une base de données AKELIO (https://dirif.akelio.com/).
 
 
-
 Comparaison avec la main courante SIRIUS
 ********************************************
 
