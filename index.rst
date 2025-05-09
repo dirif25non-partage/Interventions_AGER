@@ -5,8 +5,19 @@ Table des interventions des équipes d'exploitation de la route
    :hidden:
    :maxdepth: 3
 
+   0_intro
    1_description
    3_comparaison
+
+Présentation des données considérées
+*************************************
+Pour chaque intervention d'une équipe d'un CEI de la DiRIF, le RI fait une fiche d'intervention selon un modèle établi par la MIPOLEX.   
+Les fiches sont saisiees dans une base de données AKELIO (https://dirif.akelio.com/).
+
+
+
+Comparaison avec la main courante SIRIUS
+********************************************
 
 On documente ici les exploitations qui ont été faites sur les fichiers des interventions des AGER.
 Ce travail a été demandé par Jonathan COLE, l'application de saisie est pilotée par la MIPOLEX.
